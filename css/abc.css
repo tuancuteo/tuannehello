@@ -1,0 +1,184 @@
+.khung{
+	width: 100%;
+/*	background: red;*/
+	height: auto;
+}
+.khung .menu img{
+	width: 100%;
+	height: 500px;
+}
+.khung .menu h2{
+	font-size: 20px;
+	margin-left: 5%;
+}
+.khung .menu ul{
+	margin-right: 13%;
+}
+.khung .menu ul li{
+	margin-left: 20px;
+}
+.khung .menu ul li a.link{
+	text-transform: uppercase;
+	color: black;
+}
+.khung .menu ul li a.link:hover{
+	color: red;
+}
+.khung .menu button.button{
+	text-align: center;
+	margin-left: 50%;
+	transform: translate(-50%,-370%);
+}
+.khung .menu p{
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 33%;
+}
+.khung .save .row{
+	float: left;
+	width: 80%;
+	height: 250px;
+	background: gray;
+	margin-left: 10%;
+}
+.khung .save h1{
+	text-align: center;
+	margin-top: 5%;
+}
+.khung .save button.button{
+	margin-left: 41%;
+	margin-bottom: 5%;
+}
+.khung .save .row .tron{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background: white;
+	border-radius: 50%;
+	left: 35%;
+	margin-top: 10px;	
+}
+.khung .save .row .tron img{
+	margin: 10px;
+}
+.khung .save .tron i{
+	margin-left:22px; 
+	margin-top: 25px;
+}
+.khung .save h5{
+	text-align: center;
+	margin-top: 120px;
+}
+.khung .save p{
+	text-align: center;
+}
+.khung .three{
+	margin-top: 5%;
+	float: left;
+	width: 100%;
+	height: 250px;
+	background-image: url('http://www.hoihoasivietnam.com/upload/file/images/item/Bo-tranh-phong-canh-nui-rung-dep-tai-ha-noi.jpg');
+	background-size: 100% 100%;
+}
+.khung .for{
+	float: left;
+	width: 100%;
+}
+.khung .for h1{
+	text-align: center;
+	margin-top: 5%;
+}
+.khung .for h5{
+	text-align: center;
+	margin-bottom: 5%;
+}
+.khung .for .one{
+	background-image: url('https://tranhphuquang.com/admin/sanpham2/tranhtreo/1tam/V1136.jpg');
+	background-size: 100% 100%;
+}
+.khung .for .two .day1{
+	margin-top: 5%;
+	width: 41px;
+	height: 24px;
+	background: #33CCFF;
+	margin-left: 43%;
+}
+.khung .for .two .td1{
+	margin-top: 5%;
+	width: 60%;
+	height: 40px;
+	margin-left: 20%;
+}
+.khung .for .two .td1 h5{
+	font-size: 20px;
+}
+.khung .for .two p{
+	margin-top: 10%;
+	margin-left: 3%;
+	text-align: center;
+}
+.khung .for .thre{
+	background-image: url('http://tranhdonghohanoi.com/wp-content/uploads/2015/12/tranh-dong-ho-phong-canh-hoa-lavender-amia.jpg');
+	background-size: 100% 100%;
+}
+.khung .for .row{
+	float: left;
+	width: 80%;
+	height: 250px;
+	margin-left: 10%;
+}
+.khung .five{
+	float: left;
+	width: 100%;
+	height: 350px;
+}
+.khung .five .row{
+	width: 65%;
+	height: 280px;
+	background: red;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.khung .five .row p{
+	float: left;
+	margin-top: 
+}
+@media screen and (max-width: 768px){
+	.khung{
+		width: 100%;
+	}
+	.khung .menu p{
+		margin-left: -120px;
+		margin-top: -20px;
+		text-align: center;
+	}
+	.khung .menu p{
+		margin-top: 0.3%;
+	}
+	.khung .save .row{
+		height: 300px;
+	}
+	.khung .save button.button{
+		margin-left: 35%;
+	}
+	.khung .save .row .tron{
+		margin-left: -10%;
+	}
+	.khung .for .two .day1{
+		margin-top: 12%;
+		margin-left: 40%;
+	}
+	.khung .for .two .td1{
+		margin-top: 10%;
+		margin-bottom: -5%;
+	}
+	.khung .for .two .td1 h5{
+		font-size: 11px;
+	}
+	.khung .for .two p{
+		font-size: 13px;
+	}
+}
+@media screen and (max-width: 576px){
+}

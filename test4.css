@@ -1,0 +1,300 @@
+nav h2{
+	position: absolute;
+	left: 220px;
+	top: 35px;
+	color: red;
+	font-size: 20px;
+}
+ul li{
+	margin-right: 30px;
+}
+ul li a.link:hover{
+    background: #fff;
+    color: orange !important;
+    color: orange;
+    border-radius: 5px;
+}
+.slide .conten{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.slide .conten h1{
+	color: white;
+	text-align: center;
+}
+.slide .conten p{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+.slide button{
+	color: white;
+	font-size: 22px;
+	height: 50px;
+	width: 250px;
+	text-align: center;
+	margin-left: 50%;
+	transform: translate(-50%,0);
+}
+/*Abous Us*/
+.slide .conten h1{
+	color: white;
+	text-align: center;
+}
+.slide .conten p{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+.slide button{
+	color: white;
+	font-size: 22px;
+	height: 50px;
+	width: 250px;
+	text-align: center;
+	margin-left: 50%;
+	transform: translate(-50%,0);
+}
+.conatainer .header {
+
+	width: 100%;
+	height: auto;
+}
+.header h1 {
+	text-align: center;
+	display: block;
+}
+.header p {
+	text-align: center;
+	display: block;
+}
+.container .body1 {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 50px;
+	float: left;
+	margin-bottom: 50px;
+}
+.body1 .box {
+	float: left;
+	width: 30%;
+	height: 200px;
+	margin-left: 25px;
+}
+.body1 img {
+	width: 60px;
+	height: 60px;
+	margin-left: 130px;
+}
+.box h3 {
+	text-align: center;
+}
+.box p {
+	text-align: center;
+}
+/*Abuots Us*/
+/*Our approch*/
+*{
+	padding: 0;
+	margin: 0;
+}
+.container-fluid{
+	width: 100%;
+	height: auto;
+	background: #a7b5cc;
+}
+.container-fluid .roww .line{
+	width: 10%;
+	height: 5px;
+	margin-bottom: 3%;
+	margin-left: 45%;
+}
+.mainbox{
+	width: 80%;
+	height: auto;
+	margin-left: 10%;
+}
+.step{
+	margin-top: 20px;
+	position: relative;
+}
+.number{
+	position: absolute;
+	left: 29%;
+	top: 35%;
+	width: 80px;
+	height: 80px;
+}
+.numberleft{
+	position: absolute;
+	right: 29%;
+	top: 35%;
+	width: 80px;
+	height: 80px;
+}
+.roww .img img{
+	width: 100%;
+	height: 100%;
+}
+.infor{
+	padding-top: 60px;
+}
+h3, p{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+h3.nbstep,
+p.nbstep{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+/*Our approch*/
+/*Out*/
+{
+	padding: 0;
+	margin: 0;
+}
+.row{
+	height: auto;
+	width: 100%;	
+}
+.container-fluid{
+	float: left;
+}
+.ourwork .line{
+	width: 30px;
+	background: black;
+}
+.col-12 p{
+	line-height: 4%;
+	font-size: 15px;
+}
+.row .img img{
+	display: block;
+    width: 280px;
+	height: 200px;
+
+}
+.container-fluid div[class^="col"] {
+	
+}
+.container-fluid .row .header{
+	width: 80%;
+	height: 400px;
+	background: #F08080;
+	margin: 0 auto;
+	position: relative
+}
+ .col-lg-3 h4{
+	padding-top: 39%;
+	line-height: 8px;
+}
+.fa-paper-plane{
+	color: white;
+	position: absolute;
+	left: 124px;
+	top: 50px;
+} 
+.header .row .image img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.container-fluid .row .line{
+	width: 36px;
+	height: 3px;
+	margin-bottom: 3%;
+	margin-left: 48.5%;
+}
+/*out*/
+/*5*/
+*{
+	padding: 0;
+	margin: 0;
+}
+.container-fluid .body2 {
+	width: 100%;
+	height: 550px;
+	float: right;
+}
+.body2 h4 {
+	display: block;
+	text-align: center;
+	color: white;
+}
+.body2 p {
+	display: block;
+	text-align: center;
+	color: white;
+}.body2 i {
+	font-size: 30px;
+	margin-left: 640px;
+}
+.body2 .form {
+	width: 100%;
+	height: 300px;
+
+}
+.form .boxbox2 {
+	width: 50%;
+	height: 350px;
+	background: white;
+	margin-left: 350px;
+	margin-top: 30px;
+	
+}
+.form p {
+	color: black;
+	text-align: center;
+}
+.form .form-control {
+	width: 60%;	
+	margin-left: 100px;
+}
+.form .btn {
+	width: 30%;
+	margin-left: 140px;
+}
+.boxbox2 p {
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.body2 .boxbox1 {
+	margin-top: 40px;
+}
+.boxbox1 h4 {
+	line-height: 5px;
+}
+.container .footer {
+	width: 100%;
+	height: 30px;
+	background: black;
+	clear: both;
+}
+.footer .footer1 {
+	width: 60%;
+	height: 30px;
+	float: left;
+}
+.footer .footer2 {
+	width: 40%;
+	height: 30px;
+	float: right;
+}
+.footer1 p {
+	text-align: center;
+	color: white;
+	margin-left: 300px;
+}
+.footer2 i {
+	color: white;
+	margin-left: 50px;	
+}
+
+
+
